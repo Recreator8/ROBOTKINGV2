@@ -1,0 +1,7 @@
+{
+  "name": "ROBOTKINGV2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "openwebsite" // Development command, replace 'openwebsite' with actual command if needed
+  }
+}
